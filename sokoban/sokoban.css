@@ -1,0 +1,41 @@
+body{
+    font-family: "Gotham Black", helvetica, arial, serif;
+    text-align: center;
+    background-color: moccasin;
+
+}
+
+p {
+    font-family: "Gotham", helvetica, arial, serif;
+}
+
+#intro {
+    padding-top: 5em;
+    font-size: 3em;
+}
+
+
+
+#wall {
+    width: 100px;
+    height: 100px;
+}
+
+
+#winning {
+    font-size: 3em;
+
+}
+
+#winning1 {
+    font-size: 3em;
+
+}
+
+#winning2 {
+    font-size: 3em;
+}
+
+#refresh {
+    font-size: 1.5em
+}
